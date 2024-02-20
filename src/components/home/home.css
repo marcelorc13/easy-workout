@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.treinoDiv{
-    @apply rounded-3xl border border-black px-2 py-2
-}
-
 .destacado{
-    @apply bg-cyan-100
+    @layer bg-cyan-100
 }

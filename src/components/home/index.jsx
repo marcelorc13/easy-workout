@@ -1,6 +1,6 @@
 'use client'
 
-import css from './home.css'
+import './home.css'
 
 import treinos from '@/objects/treino.json'
 import Link from 'next/link'
@@ -18,7 +18,7 @@ const HomeComponent = () => {
             <p className='text-2xl font-semibold'>Home</p>
             <section className='flex flex-col gap-4'>
                 {treinos.map((index, key) => (
-                    <div className='treinoDiv text-lg' key={key}>
+                    <div className='rounded-3xl border border-qua px-4 py-4 text-lg drop-shadow-lg' key={key}>
                         {index.titulo === 'Descanso' ? (
                             <div><span>{index.dia}:</span> <span className='font-medium'>{index.titulo}</span></div>
                         ) : (

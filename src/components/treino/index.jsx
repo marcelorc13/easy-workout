@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation"
 import treinos from '@/objects/treino.json'
 import { useEffect, useState } from "react"
 import Link from "next/link"
+import { FaArrowLeft } from "react-icons/fa6";
 
 const TreinoBase = () => {
 
@@ -24,11 +25,14 @@ const TreinoBase = () => {
 
     return (
         <main className='flex flex-col justify-center items-center'>
+            <Link href={'/'}>
+                <FaArrowLeft className="absolute left-8 top-8 hover:-translate-x-1 transition duration-300" />
+            </Link>
             <p className="text-xl">{data.dia}</p>
             <p className="text-2xl">{data.titulo}</p>
             <section className="pt-4 flex flex-col gap-4">
                 {exercicios.map((index, key) => (
-                    <div className="flex flex-col items-center justify-center border border-black rounded-2xl py-1 px-2" key={key}>
+                    <div className="flex flex-col items-center justify-center border border-qua rounded-2xl drop-shadow-lg py-1 px-2" key={key}>
                         <Link href={index.execucao} target="_blank">{index.nome}</Link>
                         <div><span>{index.series}</span>x<span>{index.repeticoes}</span></div>
                     </div>
