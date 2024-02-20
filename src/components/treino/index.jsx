@@ -1,22 +1,19 @@
 'use client'
 
+import { Suspense } from "react"
 import { useSearchParams } from "next/navigation"
 import treinos from '@/objects/treino.json'
 import { useEffect, useState } from "react"
 import Link from "next/link"
 
-const TreinoComponent = () => {
+const TreinoBase = () => {
 
-    const [data, setData] = useState({
-        dia: 'Carregando...',
-        titulo: 'Carregando...'
-    })
+    const [data, setData] = useState({})
 
     const [exercicios, setExercicios] = useState([])
 
     const searchParams = useSearchParams()
     const tag = searchParams.get('tag')
-
 
     useEffect(() => {
         setData(treinos[tag])
@@ -38,6 +35,14 @@ const TreinoComponent = () => {
                 ))}
             </section>
         </main>
+    )
+}
+
+const TreinoComponent = () => {
+    return (
+        <Suspense fallback={<div>Carregando...</div>}>
+            <TreinoBase />
+        </Suspense>
     )
 }
 

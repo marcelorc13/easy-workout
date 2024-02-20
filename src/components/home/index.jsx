@@ -12,7 +12,7 @@ const HomeComponent = () => {
 
     useEffect(() => {
         setData(treinos)
-    }, [])
+    }, [treinos])
 
     return (
         <main className='flex flex-col justify-center items-center'>
