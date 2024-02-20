@@ -24,11 +24,11 @@ const TreinoBase = () => {
 
     return (
         <main className='flex flex-col justify-center items-center'>
-            <p>{data.dia}</p>
-            <p>{data.titulo}</p>
-            <section className="pt-4">
+            <p className="text-xl">{data.dia}</p>
+            <p className="text-2xl">{data.titulo}</p>
+            <section className="pt-4 flex flex-col gap-4">
                 {exercicios.map((index, key) => (
-                    <div className="flex flex-col items-center justify-center" key={key}>
+                    <div className="flex flex-col items-center justify-center border border-black rounded-2xl py-1 px-2" key={key}>
                         <Link href={index.execucao} target="_blank">{index.nome}</Link>
                         <div><span>{index.series}</span>x<span>{index.repeticoes}</span></div>
                     </div>

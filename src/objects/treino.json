@@ -1,5 +1,9 @@
 [
     {
+        "dia": "Domingo",
+        "titulo": "Descanso"
+    },
+    {
         "dia": "Segunda-Feira",
         "titulo": "Glúteos e Posterior",
         "exercicios": [
@@ -161,10 +165,6 @@
     },
     {
         "dia": "Sábado",
-        "titulo": "Descanso"
-    },
-    {
-        "dia": "Domingo",
         "titulo": "Descanso"
     }
 ]
