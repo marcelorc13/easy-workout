@@ -6,7 +6,7 @@ import Link from 'next/link'
 
 const HomeComponent = () => {
 
-    console.log(treinos)
+    //console.log(treinos)
 
     const [data, setData] = useState({})
 
@@ -20,12 +20,16 @@ const HomeComponent = () => {
             <section>
                 {treinos.map((index, key) => (
                     <div key={key}>
+                        {index.titulo === 'Descanso' ? (
+                            <div><span>{index.dia}:</span> <span>{index.titulo}</span></div>
+                        ) : (
                         <Link href={{
                             pathname: '/treino',
                             query: {
                                 tag: key,
                             }
                         }}><span>{index.dia}</span>: <span>{index.titulo}</span></Link>
+                        )}
                     </div>
                 ))}
             </section>
