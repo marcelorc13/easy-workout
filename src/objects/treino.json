@@ -1,0 +1,170 @@
+[
+    {
+        "dia": "Segunda-Feira",
+        "titulo": "Glúteos e Posterior",
+        "exercicios": [
+            {
+                "nome": "Panturrilha no Leg",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "RDL com Barra",
+                "series": 3,
+                "repeticoes": 10,
+                "execucao": ""
+            },
+            {
+                "nome": "Elevação Pélvica",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "Afundo Búlgaro",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "Cadeira Flexora",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "Coice de Glúteos na Polia",
+                "series": 2,
+                "repeticoes": 15,
+                "execucao": ""
+            }
+        ]
+    },
+    {
+        "dia": "Terça-Feira",
+        "titulo": "Peito, Ombro e Tríceps",
+        "exercicios": [
+            {
+                "nome": "Supino Inclinado com Halteres",
+                "series": 3,
+                "repeticoes": 10,
+                "execucao": ""
+            },
+            {
+                "nome": "Crucifixo com Halteres",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "Desenvolvimento Ombro",
+                "series": 3,
+                "repeticoes": 10,
+                "execucao": ""
+            },
+            {
+                "nome": "Elevação Lateral",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "Tríceps Corda na Polia",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "Tríceps Frances com Halteres",
+                "series": 2,
+                "repeticoes": 12,
+                "execucao": ""
+            }
+        ]
+    },
+    {
+        "dia": "Quarta-Feira",
+        "titulo": "Descanso"
+    },
+    {
+        "dia": "Quinta-Feira",
+        "titulo": "Glúteos e Quadríceps",
+        "exercicios": [
+            {
+                "nome": "Panturrilha no Leg",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "Agachamento no Hack",
+                "series": 4,
+                "repeticoes": 10,
+                "execucao": ""
+            },
+            {
+                "nome": "Leg Horizontal",
+                "series": 3,
+                "repeticoes": 10,
+                "execucao": ""
+            },
+            {
+                "nome": "Cadeira Extensora",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "Coice de Glúteos na Polia",
+                "series": 2,
+                "repeticoes": 15,
+                "execucao": ""
+            }
+        ]
+    },
+    {
+        "dia": "Sexta-Feira",
+        "titulo": "Costas e Bíceps",
+        "exercicios": [
+            {
+                "nome": "Puxada Pronada",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "Remada Baixa Triângulo",
+                "series": 3,
+                "repeticoes": 10,
+                "execucao": ""
+            },
+            {
+                "nome": "Remada Baixa Barra Pronada",
+                "series": 2,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "Rosca Direta com Halteres",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": ""
+            },
+            {
+                "nome": "Rosca no Banco Inclinado",
+                "series": 2,
+                "repeticoes": 12,
+                "execucao": ""
+            }
+        ]
+    },
+    {
+        "dia": "Sábado",
+        "titulo": "Descanso"
+    },
+    {
+        "dia": "Domingo",
+        "titulo": "Descanso"
+    }
+]
