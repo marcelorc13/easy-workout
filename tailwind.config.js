@@ -10,7 +10,8 @@ module.exports = {
       'prim': '#88AB8E',
       'sec': '#AFC8AD',
       'ter': '#EEE7DA',
-      'qua': '#F2F1EB'
+      'qua': '#F2F1EB',
+      'black': '#000000'
     },
     extend: {
       backgroundImage: {

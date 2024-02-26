@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .destacado{
-    @layer bg-cyan-100
+    @apply scale-110
 }
