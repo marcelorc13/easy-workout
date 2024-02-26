@@ -8,10 +8,10 @@
         "titulo": "Glúteos e Posterior",
         "exercicios": [
             {
-                "nome": "Panturrilha no Leg",
+                "nome": "Panturrilha no Smith",
                 "series": 3,
                 "repeticoes": 12,
-                "execucao": "https://www.youtube.com/watch?v=Ua7jx6wKyMw"
+                "execucao": "https://www.youtube.com/watch?v=MH_fKV0zMYU"
             },
             {
                 "nome": "RDL com Barra",
@@ -53,37 +53,37 @@
                 "nome": "Supino Inclinado com Halteres",
                 "series": 3,
                 "repeticoes": 10,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=3dnLfE3mB1I"
             },
             {
                 "nome": "Crucifixo com Halteres",
                 "series": 3,
                 "repeticoes": 12,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=dQi36EfA88c"
             },
             {
                 "nome": "Desenvolvimento Ombro",
                 "series": 3,
                 "repeticoes": 10,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=L-iQfHVeuVg"
             },
             {
                 "nome": "Elevação Lateral",
                 "series": 3,
                 "repeticoes": 12,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=89K5H0Vvhnw"
             },
             {
                 "nome": "Tríceps Corda na Polia",
                 "series": 3,
                 "repeticoes": 12,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=_KrR8248eLo"
             },
             {
-                "nome": "Tríceps Frances com Halteres",
+                "nome": "Tríceps Frances Unilateral com Halteres",
                 "series": 2,
                 "repeticoes": 12,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=zPAfW4JyUTI"
             }
         ]
     },
@@ -96,34 +96,34 @@
         "titulo": "Glúteos e Quadríceps",
         "exercicios": [
             {
-                "nome": "Panturrilha no Leg",
+                "nome": "Panturrilha no Smith",
                 "series": 3,
                 "repeticoes": 12,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=MH_fKV0zMYU"
             },
             {
-                "nome": "Agachamento no Hack",
+                "nome": "Agachamento no Smith",
                 "series": 4,
                 "repeticoes": 10,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/shorts/nQzIKqrMErE"
             },
             {
-                "nome": "Leg Horizontal",
+                "nome": "Afundo Búlgaro",
                 "series": 3,
                 "repeticoes": 10,
-                "execucao": ""
+                "execucao": "https://youtu.be/IGf9fR4Y7Iw?si=uWOtBClLWgsXnogr&t=78"
             },
             {
                 "nome": "Cadeira Extensora",
                 "series": 3,
                 "repeticoes": 12,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=1f1DjMr68hY"
             },
             {
                 "nome": "Coice de Glúteos na Polia",
                 "series": 2,
                 "repeticoes": 15,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=p7tTumbGcyY"
             }
         ]
     },
@@ -132,34 +132,34 @@
         "titulo": "Costas e Bíceps",
         "exercicios": [
             {
-                "nome": "Puxada Pronada",
-                "series": 3,
-                "repeticoes": 12,
-                "execucao": ""
-            },
-            {
                 "nome": "Remada Baixa Triângulo",
                 "series": 3,
                 "repeticoes": 10,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=WxkMoxuMSho"
             },
             {
                 "nome": "Remada Baixa Barra Pronada",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": "https://www.youtube.com/watch?v=af8M4ZgbsHM"
+            },
+            {
+                "nome": "Face Pull",
                 "series": 2,
                 "repeticoes": 12,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=On1ysBmSWrA"
             },
             {
                 "nome": "Rosca Direta com Halteres",
                 "series": 3,
                 "repeticoes": 12,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=w9_ggo0_34k"
             },
             {
                 "nome": "Rosca no Banco Inclinado",
                 "series": 2,
                 "repeticoes": 12,
-                "execucao": ""
+                "execucao": "https://www.youtube.com/watch?v=IoxqjVqb9Cg"
             }
         ]
     },
