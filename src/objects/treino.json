@@ -14,12 +14,6 @@
                 "execucao": "https://www.youtube.com/watch?v=MH_fKV0zMYU"
             },
             {
-                "nome": "RDL com Barra",
-                "series": 3,
-                "repeticoes": 10,
-                "execucao": "https://www.youtube.com/watch?v=jSomWOwLiGE"
-            },
-            {
                 "nome": "Elevação Pélvica",
                 "series": 3,
                 "repeticoes": 12,
@@ -57,13 +51,13 @@
             },
             {
                 "nome": "Crucifixo com Halteres",
-                "series": 3,
+                "series": 2,
                 "repeticoes": 12,
                 "execucao": "https://www.youtube.com/watch?v=dQi36EfA88c"
             },
             {
                 "nome": "Desenvolvimento Ombro",
-                "series": 3,
+                "series": 2,
                 "repeticoes": 10,
                 "execucao": "https://www.youtube.com/watch?v=L-iQfHVeuVg"
             },
@@ -75,7 +69,7 @@
             },
             {
                 "nome": "Tríceps Corda na Polia",
-                "series": 3,
+                "series": 2,
                 "repeticoes": 12,
                 "execucao": "https://www.youtube.com/watch?v=_KrR8248eLo"
             },
@@ -133,7 +127,7 @@
         "exercicios": [
             {
                 "nome": "Remada Baixa Triângulo",
-                "series": 3,
+                "series": 2,
                 "repeticoes": 10,
                 "execucao": "https://www.youtube.com/watch?v=WxkMoxuMSho"
             },
@@ -151,7 +145,7 @@
             },
             {
                 "nome": "Rosca Direta com Halteres",
-                "series": 3,
+                "series": 2,
                 "repeticoes": 12,
                 "execucao": "https://www.youtube.com/watch?v=w9_ggo0_34k"
             },
