@@ -2,7 +2,7 @@
 
 import { Suspense } from "react"
 import { useSearchParams } from "next/navigation"
-import treinos from '@/objects/treino.json'
+import treinos from '@/objects/treino2.json'
 import { useEffect, useState } from "react"
 import Link from "next/link"
 import { FaArrowLeft } from "react-icons/fa6";

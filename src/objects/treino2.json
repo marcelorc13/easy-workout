@@ -1,0 +1,126 @@
+[
+    {
+        "dia": "Domingo",
+        "titulo": "Descanso"
+    },
+    {
+        "dia": "Segunda-Feira",
+        "titulo": "Inferiores",
+        "exercicios": [
+            {
+                "nome": "Panturrilha no Smith",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": "https://www.youtube.com/watch?v=MH_fKV0zMYU"
+            },
+            {
+                "nome": "Agachamento Goblet",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": "https://www.youtube.com/watch?v=3J8SdwXDtjk"
+            },
+            {
+                "nome": "Afundo Búlgaro",
+                "series": 2,
+                "repeticoes": 12,
+                "execucao": "https://youtu.be/IGf9fR4Y7Iw?si=uWOtBClLWgsXnogr&t=78"
+            },
+            {
+                "nome": "Cadeira Flexora",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": "https://www.youtube.com/watch?v=n8j1X_xByD4"
+            },
+            {
+                "nome": "Cadeira Abdutora",
+                "series": 2,
+                "repeticoes": 12,
+                "execucao": "https://www.youtube.com/watch?v=e2gmqTG1OgQ"
+            }
+        ]
+    },
+    {
+        "dia": "Terça-Feira",
+        "titulo": "Descanso"
+    },
+    {
+        "dia": "Quarta-Feira",
+        "titulo": "Superiores",
+        "exercicios": [
+            {
+                "nome": "Supino Inclinado com Halteres",
+                "series": 3,
+                "repeticoes": 10,
+                "execucao": "https://www.youtube.com/watch?v=3dnLfE3mB1I"
+            },
+            {
+                "nome": "Remada Baixa Triângulo",
+                "series": 3,
+                "repeticoes": 10,
+                "execucao": "https://www.youtube.com/watch?v=WxkMoxuMSho"
+            },
+            {
+                "nome": "Elevação Lateral",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": "https://www.youtube.com/watch?v=89K5H0Vvhnw"
+            },
+            {
+                "nome": "Tríceps Corda na Polia",
+                "series": 2,
+                "repeticoes": 12,
+                "execucao": "https://www.youtube.com/watch?v=_KrR8248eLo"
+            },
+            {
+                "nome": "Rosca no Banco Inclinado",
+                "series": 2,
+                "repeticoes": 12,
+                "execucao": "https://www.youtube.com/watch?v=IoxqjVqb9Cg"
+            }
+        ]
+    },
+    {
+        "dia": "Quinta-Feira",
+        "titulo": "Descanso"
+    },
+    {
+        "dia": "Sexta-Feira",
+        "titulo": "Full Body",
+        "exercicios": [
+            {
+                "nome": "Remada Baixa Triângulo",
+                "series": 2,
+                "repeticoes": 10,
+                "execucao": "https://www.youtube.com/watch?v=WxkMoxuMSho"
+            },
+            {
+                "nome": "Elevação Lateral",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": "https://www.youtube.com/watch?v=89K5H0Vvhnw"
+            },
+            {
+                "nome": "Agachamento Goblet",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": "https://www.youtube.com/watch?v=3J8SdwXDtjk"
+            },
+            {
+                "nome": "Afundo Búlgaro",
+                "series": 2,
+                "repeticoes": 10,
+                "execucao": "https://youtu.be/IGf9fR4Y7Iw?si=uWOtBClLWgsXnogr&t=78"
+            },
+            {
+                "nome": "Cadeira Extensora",
+                "series": 3,
+                "repeticoes": 12,
+                "execucao": "https://www.youtube.com/watch?v=1f1DjMr68hY"
+            }
+        ]
+    },
+    {
+        "dia": "Sábado",
+        "titulo": "Descanso"
+    }
+]

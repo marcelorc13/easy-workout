@@ -2,7 +2,7 @@
 
 import './home.css'
 
-import treinos from '@/objects/treino.json'
+import treinos from '@/objects/treino2.json'
 import Link from 'next/link'
 import { useEffect, useState } from 'react'
 
