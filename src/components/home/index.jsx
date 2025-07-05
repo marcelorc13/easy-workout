@@ -2,9 +2,9 @@
 
 import './home.css'
 
-import treinos from '@/objects/treino2.json'
+import treinos from '@/objects/treino.json'
 import Link from 'next/link'
-import { useEffect, useState } from 'react'
+import { useEffect } from 'react'
 
 const HomeComponent = () => {
 
@@ -16,9 +16,6 @@ const HomeComponent = () => {
         destacado.classList.add('destacado')
         console.log(destacado)
     }, [dataHoje])
-
-    //console.log(dataHoje)
-    //console.log(treinos)
 
     return (
         <main className='flex flex-col justify-center items-center gap-4 py-2'>

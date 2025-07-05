@@ -2,7 +2,7 @@
 
 import { Suspense } from "react"
 import { useSearchParams } from "next/navigation"
-import treinos from '@/objects/treino2.json'
+import treinos from '@/objects/treino.json'
 import { useEffect, useState } from "react"
 import Link from "next/link"
 import { FaArrowLeft } from "react-icons/fa6";
@@ -20,8 +20,6 @@ const TreinoBase = () => {
         setData(treinos[tag])
         setExercicios(treinos[tag].exercicios)
     }, [tag])
-
-    //console.log(treinos[tag])
 
     return (
         <main className='flex flex-col justify-center items-center'>
